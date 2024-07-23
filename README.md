@@ -1,8 +1,19 @@
-# React + Vite
+# React Clock App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React application that displays the current time, day of the week, and whether the current time is AM or PM. The time is updated every second, and the display includes a background image.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Displays the current time with hours, minutes, and seconds.
+- Indicates whether the current time is AM or PM.
+- Shows the current day of the week.
+- Background image for visual enhancement.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/react-clock-app.git
